@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "RocketLeagueBakkes.bat", 0, false
